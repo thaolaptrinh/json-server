@@ -1,32 +1,35 @@
-{
-  "players1": {
-    "gk": "Manuel Neuer (c)",
-    "fieldPlayers": [
-      "Joshua Kimmich",
-      "Jérôme Boateng",
-      "David Alaba",
-      "Alphonso Davies",
-      "Leon Goretzka",
-      "Thiago",
-      "Serge Gnabry",
-      "Thomas Müller",
-      "Ivan Perišić",
-      "Robert Lewandowski"
-    ]
-  },
-  "players2": {
-    "gk": "Marc-André ter Stegen",
-    "fieldPlayers": [
-      "Nélson Semedo",
-      "Gerard Piqué",
-      "Clément Lenglet",
-      "Jordi Alba",
-      "Sergi Roberto",
-      "Sergio Busquets",
-      "Frenkie de Jong",
-      "Arturo Vidal",
-      "Lionel Messi (c)",
-      "Luis Suárez"
-    ]
+[
+  {
+    "players1": {
+      "gk": "Manuel Neuer (c)",
+      "fieldPlayers": [
+        "Joshua Kimmich",
+        "Jérôme Boateng",
+        "David Alaba",
+        "Alphonso Davies",
+        "Leon Goretzka",
+        "Thiago",
+        "Serge Gnabry",
+        "Thomas Müller",
+        "Ivan Perišić",
+        "Robert Lewandowski"
+      ]
+    },
+
+    "players2": {
+      "gk": "Marc-André ter Stegen",
+      "fieldPlayers": [
+        "Nélson Semedo",
+        "Gerard Piqué",
+        "Clément Lenglet",
+        "Jordi Alba",
+        "Sergi Roberto",
+        "Sergio Busquets",
+        "Frenkie de Jong",
+        "Arturo Vidal",
+        "Lionel Messi (c)",
+        "Luis Suárez"
+      ]
+    }
   }
-}
+]
