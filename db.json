@@ -1,22 +1,5 @@
 [
   {
-    "players1": {
-      "gk": "Manuel Neuer (c)",
-      "fieldPlayers": [
-        "Joshua Kimmich",
-        "Jérôme Boateng",
-        "David Alaba",
-        "Alphonso Davies",
-        "Leon Goretzka",
-        "Thiago",
-        "Serge Gnabry",
-        "Thomas Müller",
-        "Ivan Perišić",
-        "Robert Lewandowski"
-      ]
-    }
-  },
-  {
     "players2": {
       "gk": "Marc-André ter Stegen",
       "fieldPlayers": [
