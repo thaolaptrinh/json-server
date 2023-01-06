@@ -2,7 +2,7 @@
   "players": [
     {
       "id": 1,
-      "name": "ss",
+      "name": "Bayern Munich[",
       "gk": "Manuel Neuer (c)",
       "fieldPlayers": [
         "Joshua Kimmich",
@@ -19,7 +19,7 @@
     },
     {
       "id": 2,
-      "name": "ss",
+      "name": "Barcelona",
       "gk": "Marc-André ter Stegen",
       "fieldPlayers": [
         "Nélson Semedo",
