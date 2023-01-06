@@ -1,6 +1,25 @@
-[
-  {
-    "players2": {
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "ss",
+      "gk": "Manuel Neuer (c)",
+      "fieldPlayers": [
+        "Joshua Kimmich",
+        "Jérôme Boateng",
+        "David Alaba",
+        "Alphonso Davies",
+        "Leon Goretzka",
+        "Thiago",
+        "Serge Gnabry",
+        "Thomas Müller",
+        "Ivan Perišić",
+        "Robert Lewandowski"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ss",
       "gk": "Marc-André ter Stegen",
       "fieldPlayers": [
         "Nélson Semedo",
@@ -15,5 +34,5 @@
         "Luis Suárez"
       ]
     }
-  }
-]
+  ]
+}
