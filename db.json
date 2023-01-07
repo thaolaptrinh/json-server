@@ -1,35 +1,7 @@
 {
-  "gamne": {
+  "game": {
     "team1": "FC Bayern Munich",
     "team2": "FC Barcelona",
-    "players": [
-      [
-        "Manuel Neuer (c)",
-        "Joshua Kimmich",
-        "Jérôme Boateng",
-        "David Alaba",
-        "Alphonso Davies",
-        "Leon Goretzka",
-        "Thiago",
-        "Serge Gnabry",
-        "Thomas Müller",
-        "Ivan Perišić",
-        "Robert Lewandowski"
-      ],
-      [
-        "Marc-André ter Stegen",
-        "Nélson Semedo",
-        "Gerard Piqué",
-        "Clément Lenglet",
-        "Jordi Alba",
-        "Sergi Roberto",
-        "Sergio Busquets",
-        "Frenkie de Jong",
-        "Arturo Vidal",
-        "Lionel Messi (c)",
-        "Luis Suárez"
-      ]
-    ],
     "score": "8-2",
     "scored": ["Davies", "Muller", "Lewandowski", "Kimmich"],
     "date": "2020-08-14",
