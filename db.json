@@ -3,8 +3,8 @@
     {
       "id": 1,
       "name": "Bayern Munich[",
-      "gk": "Manuel Neuer (c)",
       "fieldPlayers": [
+        "Manuel Neuer (c)",
         "Joshua Kimmich",
         "Jérôme Boateng",
         "David Alaba",
@@ -20,8 +20,8 @@
     {
       "id": 2,
       "name": "Barcelona",
-      "gk": "Marc-André ter Stegen",
       "fieldPlayers": [
+        "Marc-André ter Stegen",
         "Nélson Semedo",
         "Gerard Piqué",
         "Clément Lenglet",
