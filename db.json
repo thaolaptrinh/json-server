@@ -1,43 +1,6 @@
 {
   "team1": "FC Bayern Munich",
   "team2": "FC Barcelona",
-
-  "players": [
-    {
-      "id": 1,
-      "name": "FC Bayern Munich",
-      "fieldPlayers": [
-        "Manuel Neuer (c)",
-        "Joshua Kimmich",
-        "Jérôme Boateng",
-        "David Alaba",
-        "Alphonso Davies",
-        "Leon Goretzka",
-        "Thiago",
-        "Serge Gnabry",
-        "Thomas Müller",
-        "Ivan Perišić",
-        "Robert Lewandowski"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "FC Barcelona",
-      "fieldPlayers": [
-        "Marc-André ter Stegen",
-        "Nélson Semedo",
-        "Gerard Piqué",
-        "Clément Lenglet",
-        "Jordi Alba",
-        "Sergi Roberto",
-        "Sergio Busquets",
-        "Frenkie de Jong",
-        "Arturo Vidal",
-        "Lionel Messi (c)",
-        "Luis Suárez"
-      ]
-    }
-  ],
   "score": "8-2",
   "scored": ["Davies", "Muller", "Lewandowski", "Kimmich"],
   "date": "2020-08-14",
