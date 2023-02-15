@@ -4,7 +4,7 @@
     "team2": "FC Barcelona",
     "players": [
       [
-        "Manuel Neuer (c) 111",
+        "Manuel Neuer (c)",
         "Joshua Kimmich",
         "Jérôme Boateng",
         "David Alaba",
@@ -43,7 +43,7 @@
   "users": [
     {
       "email": "olivier@mail.com",
-      "password": "bestPassw0rd"
+  "password": "bestPassw0rd"
     }
   ]
 }
