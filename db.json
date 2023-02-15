@@ -38,5 +38,12 @@
       "x": 2,
       "team2": 3
     }
-  }
+  },
+
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "bestPassw0rd"
+    }
+  ]
 }
